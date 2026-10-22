@@ -24,7 +24,7 @@
   <code>KiCad</code> · 
 </p>
 
-<h2>✿ a little note ✿</h2>
+<h2>✿ a note ✿</h2>
 
 ♡ you're welcome to explore & learn alongside me <br>
 ♡ please check each project's licence before reusing its code or designs
