@@ -13,8 +13,8 @@
 
 <h2 align="center">✿ around here ✿</h2>
 
-✧ personal projects, experiments & things i'm figuring out
-✧ pcb design, microcontrollers & a little bit of code
+✧ personal projects, experiments & things i'm figuring out <br>
+✧ pcb design, microcontrollers & a little bit of code <br>
 ✧ learning as i go, one circuit and one bug at a time :p
 
 <h2 align="center">♡ tools i'm learning & working with ♡</h2>
@@ -26,7 +26,7 @@
 
 <h2>✿ a little note ✿</h2>
 
-♡ you're welcome to explore & learn alongside me
+♡ you're welcome to explore & learn alongside me <br>
 ♡ please check each project's licence before reusing its code or designs
 
 <p align="center">˚₊‧꒰ა ♡ ໒꒱ ‧₊˚</p>
