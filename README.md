@@ -1,4 +1,4 @@
-<h1 align="center">˚₊‧ ♡ welcome to oxaphi ♡ ‧₊˚</h1>
+<h1 align="center">˚₊‧ ♡ welcome ♡ ‧₊˚</h1>
 
 <p align="center">✧ ˚ · . ୨୧ . · ˚ ✧</p>
 
@@ -6,9 +6,9 @@
 
 <h2 align="center">⋆｡°✩ a little about me ✩°｡⋆</h2>
 
-♡ electrical engineering student at the university of melbourne
-♡ interested in electronics, embedded systems & robotics
-♡ happiest when turning an idea into something i can build
+♡ electrical engineering student at the university of melbourne <br>
+♡ interested in electronics, embedded systems & robotics <br>
+♡ happiest when turning an idea into something i can build <br>
 ♡ soft spot for anything pink, sanrio & little technical details
 
 <h2 align="center">✿ around here ✿</h2>
