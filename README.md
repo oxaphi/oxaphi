@@ -21,7 +21,7 @@
 
 <p align="center">
   <code>C</code> · <code>Python</code> · <code>MATLAB</code><br>
-  <code>KiCad</code> · <code>LTspice</code> · <code>Arduino</code>
+  <code>KiCad</code> · 
 </p>
 
 <h2>✿ a little note ✿</h2>
@@ -30,4 +30,4 @@
 ♡ please check each project's licence before reusing its code or designs
 
 <p align="center">˚₊‧꒰ა ♡ ໒꒱ ‧₊˚</p>
-<p align="center"><em>made with curiosity & a little pink</em></p>
+<p align="center"><em>made with curiosity</em></p>
