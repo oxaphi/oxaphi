@@ -2,7 +2,7 @@
 
 <p align="center">✧ ˚ · . ୨୧ . · ˚ ✧</p>
 
-<p align="center"><em>a little space for my older projects & things i'm learning to build</em></p>
+<p align="center"><em>a space for my older projects & things i'm learning to build</em></p>
 
 <h2 align="center">⋆｡°✩ a little about me ✩°｡⋆</h2>
 
