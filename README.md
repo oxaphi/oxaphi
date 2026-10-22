@@ -20,7 +20,7 @@
 <h2 align="center">♡ tools i'm learning & working with ♡</h2>
 
 <p align="center">
-  <code>C</code> · <code>Python</code> · <code>MATLAB</code><br>
+  <code>C</code> · <code>C++</code> · <code>Python</code> ·
   <code>KiCad</code> · 
 </p>
 
@@ -30,4 +30,4 @@
 ♡ please check each project's licence before reusing its code or designs
 
 <p align="center">˚₊‧꒰ა ♡ ໒꒱ ‧₊˚</p>
-<p align="center"><em>made with curiosity</em></p>
+<p align="center"><em>made with love</em></p>
