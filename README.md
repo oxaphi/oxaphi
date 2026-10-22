@@ -9,13 +9,13 @@
 ♡ electrical engineering student at the university of melbourne
 ♡ interested in electronics, embedded systems & robotics
 ♡ happiest when turning an idea into something i can build
-♡ a soft spot for pink + sanrio things & little technical details
+♡ soft spot for anything pink, sanrio & little technical details
 
 <h2 align="center">✿ around here ✿</h2>
 
 ✧ personal projects, experiments & things i'm figuring out
 ✧ pcb design, microcontrollers & a little bit of code
-✧ learning as i go, one circuit and one bug at a time
+✧ learning as i go, one circuit and one bug at a time :p
 
 <h2 align="center">♡ tools i'm learning & working with ♡</h2>
 
