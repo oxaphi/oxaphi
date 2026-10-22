@@ -4,7 +4,7 @@
 
 <p align="center"><em>a space for my older projects & things i'm learning to build</em></p>
 
-<h2 align="center">⋆｡°✩ a little about me ✩°｡⋆</h2>
+<h2 align="center">⋆｡°✩ about me ✩°｡⋆</h2>
 
 ♡ electrical engineering student at the university of melbourne <br>
 ♡ interested in electronics, embedded systems & robotics <br>
